@@ -1,0 +1,107 @@
+{
+  "article" : {
+    "title" : "Article"
+  },
+  "article-magazine" : {
+    "title" : "Magazine"
+  },
+  "article-newspaper" : {
+    "title" : "Newspaper"
+  },
+  "article-journal" : {
+    "title" : "Journal"
+  },
+  "bill" : {
+    "title" : "Bill"
+  },
+  "book" : {
+    "title" : "Book"
+  },
+  "broadcast" : {
+    "title" : "Broadcast"
+  },
+  "chapter" : {
+    "title" : "Chapter"
+  },
+  "dataset" : {
+    "title" : "Dataset"
+  },
+  "entry" : {
+    "title" : "Entry"
+  },
+  "entry-dictionary" : {
+    "title" : "Entry Dictionary"
+  },
+  "entry-encyclopedia" : {
+    "title" : "Entry Encyclopedia"
+  },
+  "figure" : {
+    "title" : "Figure"
+  },
+  "graphic" : {
+    "title" : "Graphic"
+  },
+  "interview" : {
+    "title" : "Interview"
+  },
+  "legislation" : {
+    "title" : "Legislation"
+  },
+  "legal_case" : {
+    "title" : "Legal Case"
+  },
+  "manuscript" : {
+    "title" : "Manuscript"
+  },
+  "map" : {
+    "title" : "Map"
+  },
+  "motion_picture" : {
+    "title" : "Motion Picture"
+  },
+  "musical_score" : {
+    "title" : "Musical Score"
+  },
+  "pamphlet" : {
+    "title" : "Pamphlet"
+  },
+  "paper-conference" : {
+    "title" : "Paper Conference"
+  },
+  "patent" : {
+    "title" : "Patent"
+  },
+  "post" : {
+    "title" : "Post"
+  },
+  "post-weblog" : {
+    "title" : "Post Weblog"
+  },
+  "personal_communication" : {
+    "title" : "Personal Communication"
+  },
+  "report" : {
+    "title" : "Report"
+  },
+  "review" : {
+    "title" : "Review"
+  },
+  "review-book" : {
+    "title" : "Review Book"
+  },
+  "song" : {
+    "title" : "Song"
+  },
+  "speech" : {
+    "title" : "Speech"
+  },
+  "thesis" : {
+    "title" : "Thesis"
+  },
+  "treaty" : {
+    "title" : "Treaty"
+  },
+  "webpage" : {
+    "title" : "Webpage"
+  }
+}
