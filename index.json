@@ -1,7 +1,11 @@
 [
   {
     "id": "article",
-    "title": "Article"
+    "title": "Article",
+    "traits" : [
+      "foo",
+      ""
+    ]
   },
   {
     "id": "article-magazine",
@@ -13,7 +17,25 @@
   },
   {
     "id": "article-journal",
-    "title": "Journal"
+    "title": "Journal" [
+      "author",
+      "editor",
+      "translator",
+      "corporate",
+      "year",
+      "title",
+      "publisher-place",
+      "publisher",
+      "container-title",
+      "volume",
+      "issue",
+      "page",
+      "doi",
+      "accessed",
+      "URL",
+      "DOI"
+      
+    ]
   },
   {
     "id": "bill",
@@ -21,11 +43,41 @@
   },
   {
     "id": "book",
-    "title": "Book"
+    "title": "Book" [ 
+      "author",
+      "editor",
+      "translator",
+      "corporate"
+      "year",
+      "title",
+      "publisher-place",
+      "publisher",
+      "version",
+      "issued",
+      "accessed",
+      "archive",
+      "archive_location"
+    ]
   },
   {
     "id": "broadcast",
-    "title": "Broadcast"
+    "title": "Broadcast" [ 
+      "author",
+      "editor",
+      "translator",
+      "corporate",
+      "year",
+      "title",
+      "medium",
+      "event-place",
+      "publisher-place",
+      "publisher",
+      "issued",
+      "note",
+      "accessed",
+      "archive",
+      "archive_location"
+    ]
   },
   {
     "id": "chapter",
