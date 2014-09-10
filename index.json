@@ -1,398 +1,401 @@
-[
-
-  {
-    "id": "article-magazine",
-    "title": "Magazine" [
-      "author",
-      "editor",
-      "year",
-      "title",
-      "container-title",
-      "publisher",
-      "volume",
-      "issue",
-      "page",
-      "url",
-      "accessed"
-      
-    ]
-  },
-  {
-    "id": "article-newspaper",
-    "title": "Newspaper" [
-      "author",
-      "editor",
-      "year",
-      "title",
-      "container-title",
-      "publisher",
-      "publisher-place",
-      "volume",
-      "edition",
-      "section",
-      "page",
-      "url",
-      "accessed"
-      
-    ]
-    
-  },
-  {
-    "id": "article-journal",
-    "title": "Journal" [
-      "author",
-      "editor",
-      "translator",
-      "corporate",
-      "year",
-      "title",
-      "publisher-place",
-      "publisher",
-      "volume",
-      "issue",
-      "page",
-      "doi",
-      "accessed",
-      "URL",
-      "DOI"
-      
-    ]
-  },
-  {
-    "id": "bill",
-    "title": "Bill" [
-      "author",
-      "editor",
-      "year",
-      "title",
-      "container-title",
-      "publisher",
-      "section",
-      "number",
-      "references",
-      "page",
-      "url",
-      "accessed"
-      
-    ]
-  },
-  {
-    "id": "book",
-    "title": "Book" [ 
-      "author",
-      "editor",
-      "translator",
-      "corporate"
-      "year",
-      "title",
-      "publisher-place",
-      "publisher",
-      "version",
-      "URL",
-      "accessed",
-      "ISBN"
-      
-    ]
-  },
-  {
-    "id": "broadcast",
-    "title": "Broadcast" [ 
-      "author",
-      "editor",
-      "translator",
-      "corporate",
-      "year",
-      "title",
-      "container-title",
-      "medium",
-      "event-place",
-      "number",
-      "publisher-place",
-      "publisher",
-      "URL",
-      "accessed"
-      
-    ]
-  },
-  {
-    "id": "chapter",
-    "title": "Chapter" [ 
-      "author",
-      "editor",
-      "translator",
-      "corporate",
-      "year",
-      "title",
-      "event-place",
-      "publisher-place",
-      "publisher",
-      "edition",
-      "page",
-      "URL",
-      "accessed",
-      "ISBN"
-    ]
-  },
-  {
-    "id": "dataset",
-    "title": "Dataset"
-  },
-  {
-    "id": "entry",
-    "title": "Entry" 
-  },
-  {
-    "id": "entry-dictionary",
-    "title": "Entry Dictionary"
-  },
-  {
-    "id": "entry-encyclopedia",
-    "title": "Entry Encyclopedia"
-  },
-  {
-    "id": "figure",
-    "title": "Figure"
-  },
-  {
-    "id": "graphic",
-    "title": "Graphic" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "genre",
-      "medium",
-      "publiser",
-      "URL",
-      "accessed",
-    ]
-  },
-  {
-    "id": "interview",
-    "title": "Interview" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "medium",
-      "publiser",
-      "call-number",
-      "URL",
-      "accessed"
-    ]
-  },
-  {
-    "id": "legislation",
-    "title": "Legislation"
-  },
-  {
-    "id": "legal_case",
-    "title": "Legal Case" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "container-title",
-      "authority",
-      "publiser",
-      "volume",
-      "references",
-      "URL",
-      "accessed"
-    ]
-  },
-  {
-    "id": "manuscript",
-    "title": "Manuscript" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "genre",
-      "number-of-pages"
-      "publisher",
-      "publisher-place",
-      "call-number",
-      "URL",
-      "accessed"
-    ]
-  },
-  {
-    "id": "map",
-    "title": "Map" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "genre",
-      "publisher",
-      "publisher-place",
-      "event-place",
-      "call-number",
-      "edition",
-      "URL",
-      "accessed"
-    ]
-  },
-  {
-    "id": "motion_picture",
-    "title": "Motion Picture" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "publisher",
-      "publisher-place",
-      "event-place",
-      "medium",
-      "URL",
-      "accessed"
-    ]
-  },
-  {
-    "id": "musical_score",
-    "title": "Musical Score"
-  },
-  {
-    "id": "pamphlet",
-    "title": "Pamphlet"
-  },
-  {
-    "id": "paper-conference",
-    "title": "Paper Conference" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "publisher",
-      "publisher-place",
-      "event",
-      "event-place",
-      "collection-title",
-      "URL",
-      "accessed",
-      "doi"
-    ]
-  },
-  {
-    "id": "patent",
-    "title": "Patent" [ 
-      "author",
-      "corporate",
-      "year",
-      "title",
-      "publisher",
-      "publish-location",
-      "number",
-      "references",
-      "url",
-      "accessed"
-    ]
-  },
-  {
-    "id": "post",
-    "title": "Post" 
-  },
-  {
-    "id": "post-weblog",
-    "title": "Post Weblog" 
-  },
-  {
-    "id": "personal_communication",
-    "title": "Personal Communication" [ 
-      "author",
-      "year",
-      "title",
-      "publisher",
-      "call-number",
-      "url",
-      "accessed"
-    ]
-  },
-  {
-    "id": "report",
-    "title": "Report" [ 
-      "author",
-      "editor",
-      "translator",
-      "corporate",
-      "year",
-      "title",
-      "publisher",
-      "publisher-place",
-      "collection-title",
-      "call-number",
-      "page",
-      "url",
-      "accessed"
-    ]
-  },
-  {
-    "id": "review",
-    "title": "Review"
-  },
-  {
-    "id": "review-book",
-    "title": "Review Book"
-  },
-  {
-    "id": "song",
-    "title": "Song" [ 
-      "author",
-      "year",
-      "title",
-      "medium",
-      "publisher",
-      "collection-title",
-      "call-number",
-      "url",
-      "accessed"
-    ]
-  },
-  {
-    "id": "speech",
-    "title": "Speech" [ 
-      "author",
-      "year",
-      "title",
-      "genre",
-      "publisher",
-      "publisher-place",
-      "event",
-      "event-place",
-      "call-number",
-      "url",
-      "accessed"
-    ]
-  },
-  {
-    "id": "thesis",
-    "title": "Thesis" [ 
-      "author",
-      "year",
-      "title",
-      "publisher",
-      "publisher-place",
-      "event-place",
-      "number-of-pages",
-      "url",
-      "accessed"
-    ]
-  },
-  {
-    "id": "treaty",
-    "title": "Treaty"
-  },
-  {
-    "id": "webpage",
-    "title": "Webpage" [ 
-      "author",
-      "year",
-      "title",
-      "container-title",
-      "publisher",
-      "url",
-      "accessed"
-    ]
-  }
-]
+{
+  "name": "csl-types",
+  "version": "0.1.0",
+  "description": "a schema of csl types and the citeac traits they require",
+  "properties": {
+    "article-magazine": {
+      "title": "Magazine",
+      "traits": [
+        "author",
+        "editor",
+        "year",
+        "title",
+        "container-title",
+        "publisher",
+        "volume",
+        "issue",
+        "page",
+        "url",
+        "accessed"
+      ]
+    },
+    "article-newspaper": {
+      "title": "Newspaper",
+      "traits": [
+        "author",
+        "editor",
+        "year",
+        "title",
+        "container-title",
+        "publisher",
+        "publisher-place",
+        "volume",
+        "edition",
+        "section",
+        "page",
+        "url",
+        "accessed"
+      ]
+    },
+    "article-journal": {
+      "title": "Journal",
+      "traits": [
+        "author",
+        "editor",
+        "translator",
+        "corporate",
+        "year",
+        "title",
+        "publisher-place",
+        "publisher",
+        "volume",
+        "issue",
+        "page",
+        "doi",
+        "accessed",
+        "URL",
+        "DOI"
+      ]
+    },
+    "bill": {
+      "title": "Bill",
+      "traits": [
+        "author",
+        "editor",
+        "year",
+        "title",
+        "container-title",
+        "publisher",
+        "section",
+        "number",
+        "references",
+        "page",
+        "url",
+        "accessed"
+      ]
+    },
+    "book": {
+      "title": "Book",
+      "traits": [
+        "author",
+        "editor",
+        "translator",
+        "corporate"
+        "year",
+        "title",
+        "publisher-place",
+        "publisher",
+        "version",
+        "URL",
+        "accessed",
+        "ISBN"
+      ]
+    },
+    "broadcast": {
+      "title": "Broadcast",
+      "traits": [
+        "author",
+        "editor",
+        "translator",
+        "corporate",
+        "year",
+        "title",
+        "container-title",
+        "medium",
+        "event-place",
+        "number",
+        "publisher-place",
+        "publisher",
+        "URL",
+        "accessed"
+      ]
+    },
+    "chapter": {
+      "title": "Chapter",
+      "traits": [
+        "author",
+        "editor",
+        "translator",
+        "corporate",
+        "year",
+        "title",
+        "event-place",
+        "publisher-place",
+        "publisher",
+        "edition",
+        "page",
+        "URL",
+        "accessed",
+        "ISBN"
+      ]
+    },
+    "dataset": {
+      "title": "Dataset",
+      "traits": [
+      ]
+    },
+    "entry": {
+      "title": "Entry",
+      "traits": [
+      ]
+    },
+    "entry-dictionary": {
+      "title": "Entry Dictionary",
+      "traits": [
+      ]
+    },
+    "figure": {
+      "title": "Figure",
+      "traits": [
+      ]
+    },
+    "graphic": {
+      "title": "Graphic",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "genre",
+        "medium",
+        "publiser",
+        "URL",
+        "accessed",
+      ]
+    },
+    "interview": {
+      "title": "Interview",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "medium",
+        "publiser",
+        "call-number",
+        "URL",
+        "accessed"
+      ]
+    },
+    "legislation": {
+      "title": "Legislation",
+      "traits": [
+      ]
+    },
+    "legal_case": {
+      "title": "Legal Case",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "container-title",
+        "authority",
+        "publiser",
+        "volume",
+        "references",
+        "URL",
+        "accessed"
+      ]
+    },
+    "manuscript": {
+      "title": "Manuscript",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "genre",
+        "number-of-pages"
+        "publisher",
+        "publisher-place",
+        "call-number",
+        "URL",
+        "accessed"
+      ]
+    },
+    "map": {
+      "title": "Map",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "genre",
+        "publisher",
+        "publisher-place",
+        "event-place",
+        "call-number",
+        "edition",
+        "URL",
+        "accessed"
+      ]
+    },
+    "motion_picture": {
+      "title": "Motion Picture",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "publisher",
+        "publisher-place",
+        "event-place",
+        "medium",
+        "URL",
+        "accessed"
+      ]
+    },
+    "musical_score": {
+      "title": "Musical Score",
+      "traits": [
+      ]
+    },
+    "pamphlet": {
+      "title": "Pamphlet",
+      "traits": [
+      ]
+    },
+    "paper-conference": {
+      "title": "Paper Conference",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "publisher",
+        "publisher-place",
+        "event",
+        "event-place",
+        "collection-title",
+        "URL",
+        "accessed",
+        "doi"
+      ]
+    },
+    "patent": {
+      "title": "Patent",
+      "traits": [
+        "author",
+        "corporate",
+        "year",
+        "title",
+        "publisher",
+        "publish-location",
+        "number",
+        "references",
+        "url",
+        "accessed"
+      ]
+    },
+    "post": {
+      "title": "Post",
+      "traits": [
+      ]
+    },
+    "post-weblog": {
+      "title": "Post Weblog",
+      "traits": [
+      ]
+    },
+    "personal_communication": {
+      "title": "Personal Communication",
+      "traits": [
+        "author",
+        "year",
+        "title",
+        "publisher",
+        "call-number",
+        "url",
+        "accessed"
+      ]
+    },
+    "report": {
+      "title": "Report",
+      "traits": [
+        "author",
+        "editor",
+        "translator",
+        "corporate",
+        "year",
+        "title",
+        "publisher",
+        "publisher-place",
+        "collection-title",
+        "call-number",
+        "page",
+        "url",
+        "accessed"
+      ]
+    },
+    "review": {
+      "title": "Review",
+      "traits": [
+      ]
+    },
+    "review-book": {
+      "title": "Review Book",
+      "traits": [
+      ]
+    },
+    "song": {
+      "title": "Song",
+      "traits": [
+        "author",
+        "year",
+        "title",
+        "medium",
+        "publisher",
+        "collection-title",
+        "call-number",
+        "url",
+        "accessed"
+      ]
+    },
+    "speech": {
+      "title": "Speech",
+      "traits": [
+        "author",
+        "year",
+        "title",
+        "genre",
+        "publisher",
+        "publisher-place",
+        "event",
+        "event-place",
+        "call-number",
+        "url",
+        "accessed"
+      ]
+    },
+    "thesis": {
+      "title": "Thesis",
+      "traits": [
+        "author",
+        "year",
+        "title",
+        "publisher",
+        "publisher-place",
+        "event-place",
+        "number-of-pages",
+        "url",
+        "accessed"
+      ]
+    },
+    "treaty": {
+      "title": "Treaty",
+      "traits": [
+      ]
+    },
+    "webpage": {
+      "title": "webpage",
+      "traits": [
+        "author",
+        "year",
+        "title",
+        "container-title",
+        "publisher",
+        "url",
+        "accessed"
+      ]
+    },
