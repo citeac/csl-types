@@ -6,127 +6,126 @@
     "article-magazine": {
       "title": "Magazine",
       "traits": [
+        "title",
         "author",
         "editor",
-        "year",
-        "title",
-        "container-title",
+        "datePublished",
+        "sourceTitle",
         "publisher",
         "volume",
         "issue",
         "page",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "article-newspaper": {
       "title": "Newspaper",
       "traits": [
+        "title",
         "author",
         "editor",
-        "year",
-        "title",
-        "container-title",
+        "datePublished",
+        "sourceTitle",
         "publisher",
-        "publisher-place",
+        "location",
         "volume",
         "edition",
         "section",
         "page",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "article-journal": {
       "title": "Journal",
       "traits": [
+        "title",
         "author",
         "editor",
         "translator",
         "corporate",
-        "year",
-        "title",
-        "publisher-place",
+        "datePublished",
+        "location",
         "publisher",
         "volume",
         "issue",
         "page",
         "doi",
-        "accessed",
-        "URL",
-        "DOI"
+        "dateAccessed",
+        "url",
       ]
     },
     "bill": {
       "title": "Bill",
       "traits": [
+        "title",
         "author",
         "editor",
-        "year",
-        "title",
-        "container-title",
+        "datePublished",
+        "sourceTitle",
         "publisher",
         "section",
-        "number",
+        "referenceNo",
         "references",
         "page",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "book": {
       "title": "Book",
       "traits": [
+        "title",
         "author",
         "editor",
         "translator",
         "corporate"
-        "year",
-        "title",
-        "publisher-place",
+        "datePublished",
+        "location",
         "publisher",
         "version",
-        "URL",
-        "accessed",
-        "ISBN"
+        "url",
+        "dateAccessed",
+        "isbn"
       ]
     },
     "broadcast": {
       "title": "Broadcast",
       "traits": [
+        "title",
         "author",
         "editor",
         "translator",
         "corporate",
-        "year",
-        "title",
-        "container-title",
-        "medium",
-        "event-place",
-        "number",
-        "publisher-place",
+        "datePublished",
+        "sourceTitle",
+        "format",
+        "eventLocation",
+        "referenceNo",
+        "location",
         "publisher",
-        "URL",
-        "accessed"
+        "url",
+        "dateAccessed"
       ]
     },
     "chapter": {
       "title": "Chapter",
       "traits": [
+        "title",
         "author",
         "editor",
         "translator",
         "corporate",
-        "year",
-        "title",
-        "event-place",
-        "publisher-place",
+        "datePublished",
+        "eventLocation",
+        "location",
         "publisher",
         "edition",
         "page",
-        "URL",
-        "accessed",
-        "ISBN"
+        "url",
+        "dateAccessed",
+        "isbn"
       ]
     },
     "dataset": {
@@ -152,29 +151,29 @@
     "graphic": {
       "title": "Graphic",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "genre",
-        "medium",
-        "publiser",
-        "URL",
-        "accessed",
+        "format",
+        "publisher",
+        "url",
+        "dateAccessed",
       ]
     },
     "interview": {
       "title": "Interview",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
-        "medium",
-        "publiser",
-        "call-number",
-        "URL",
-        "accessed"
+        "datePublished",
+        "format",
+        "publisher",
+        "callNo",
+        "url",
+        "dateAccessed"
       ]
     },
     "legislation": {
@@ -185,65 +184,65 @@
     "legal_case": {
       "title": "Legal Case",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
-        "container-title",
+        "datePublished",
+        "sourceTitle",
         "authority",
-        "publiser",
+        "publisher",
         "volume",
         "references",
-        "URL",
-        "accessed"
+        "url",
+        "dateAccessed"
       ]
     },
     "manuscript": {
       "title": "Manuscript",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "genre",
-        "number-of-pages"
+        "totalPagess"
         "publisher",
-        "publisher-place",
-        "call-number",
-        "URL",
-        "accessed"
+        "location",
+        "callNo",
+        "url",
+        "dateAccessed"
       ]
     },
     "map": {
       "title": "Map",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "genre",
         "publisher",
-        "publisher-place",
-        "event-place",
-        "call-number",
+        "location",
+        "eventLocation",
+        "callNo",
         "edition",
-        "URL",
-        "accessed"
+        "url",
+        "dateAccessed"
       ]
     },
     "motion_picture": {
       "title": "Motion Picture",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "publisher",
-        "publisher-place",
-        "event-place",
-        "medium",
-        "URL",
-        "accessed"
+        "location",
+        "eventLocation",
+        "format",
+        "url",
+        "dateAccessed"
       ]
     },
     "musical_score": {
@@ -259,33 +258,33 @@
     "paper-conference": {
       "title": "Paper Conference",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "publisher",
-        "publisher-place",
+        "location",
         "event",
-        "event-place",
+        "eventLocation",
         "collection-title",
-        "URL",
-        "accessed",
+        "url",
+        "dateAccessed",
         "doi"
       ]
     },
     "patent": {
       "title": "Patent",
       "traits": [
+        "title",
         "author",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "publisher",
-        "publish-location",
-        "number",
+        "location",
+        "referenceNo",
         "references",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "post": {
@@ -301,31 +300,31 @@
     "personal_communication": {
       "title": "Personal Communication",
       "traits": [
-        "author",
-        "year",
         "title",
+        "author",
+        "datePublished",
         "publisher",
-        "call-number",
+        "callNo",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "report": {
       "title": "Report",
       "traits": [
+        "title",
         "author",
         "editor",
         "translator",
         "corporate",
-        "year",
-        "title",
+        "datePublished",
         "publisher",
-        "publisher-place",
+        "location",
         "collection-title",
-        "call-number",
+        "callNo",
         "page",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "review": {
@@ -341,45 +340,45 @@
     "song": {
       "title": "Song",
       "traits": [
-        "author",
-        "year",
         "title",
-        "medium",
+        "author",
+        "datePublished",
+        "format",
         "publisher",
-        "collection-title",
-        "call-number",
+        "referenceNo",
+        "callNo",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "speech": {
       "title": "Speech",
       "traits": [
-        "author",
-        "year",
         "title",
+        "author",
+        "datePublished",
         "genre",
         "publisher",
-        "publisher-place",
+        "location",
         "event",
-        "event-place",
-        "call-number",
+        "eventLocation",
+        "callNo",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "thesis": {
       "title": "Thesis",
       "traits": [
-        "author",
-        "year",
         "title",
+        "author",
+        "datePublished",
         "publisher",
-        "publisher-place",
-        "event-place",
-        "number-of-pages",
+        "location",
+        "eventLocation",
+        "totalPagess",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
     },
     "treaty": {
@@ -390,12 +389,14 @@
     "webpage": {
       "title": "webpage",
       "traits": [
-        "author",
-        "year",
         "title",
-        "container-title",
+        "author",
+        "datePublished",
+        "sourceTitle",
         "publisher",
         "url",
-        "accessed"
+        "dateAccessed"
       ]
-    },
+    }
+  }
+}
