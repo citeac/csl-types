@@ -53,7 +53,7 @@
         "page",
         "doi",
         "dateAccessed",
-        "url",
+        "url"
       ]
     },
     "bill": {
@@ -80,7 +80,7 @@
         "author",
         "editor",
         "translator",
-        "corporate"
+        "corporate",
         "datePublished",
         "location",
         "publisher",
@@ -130,23 +130,19 @@
     },
     "dataset": {
       "title": "Dataset",
-      "traits": [
-      ]
+      "traits": []
     },
     "entry": {
       "title": "Entry",
-      "traits": [
-      ]
+      "traits": []
     },
     "entry-dictionary": {
       "title": "Entry Dictionary",
-      "traits": [
-      ]
+      "traits": []
     },
     "figure": {
       "title": "Figure",
-      "traits": [
-      ]
+      "traits": []
     },
     "graphic": {
       "title": "Graphic",
@@ -159,7 +155,7 @@
         "format",
         "publisher",
         "url",
-        "dateAccessed",
+        "dateAccessed"
       ]
     },
     "interview": {
@@ -178,8 +174,7 @@
     },
     "legislation": {
       "title": "Legislation",
-      "traits": [
-      ]
+      "traits": []
     },
     "legal_case": {
       "title": "Legal Case",
@@ -205,7 +200,7 @@
         "corporate",
         "datePublished",
         "genre",
-        "totalPagess"
+        "totalPagess",
         "publisher",
         "location",
         "callNo",
@@ -252,8 +247,7 @@
     },
     "pamphlet": {
       "title": "Pamphlet",
-      "traits": [
-      ]
+      "traits": []
     },
     "paper-conference": {
       "title": "Paper Conference",
@@ -289,13 +283,11 @@
     },
     "post": {
       "title": "Post",
-      "traits": [
-      ]
+      "traits": []
     },
     "post-weblog": {
       "title": "Post Weblog",
-      "traits": [
-      ]
+      "traits": []
     },
     "personal_communication": {
       "title": "Personal Communication",
@@ -329,13 +321,11 @@
     },
     "review": {
       "title": "Review",
-      "traits": [
-      ]
+      "traits": []
     },
     "review-book": {
       "title": "Review Book",
-      "traits": [
-      ]
+      "traits": []
     },
     "song": {
       "title": "Song",
@@ -383,8 +373,7 @@
     },
     "treaty": {
       "title": "Treaty",
-      "traits": [
-      ]
+      "traits": []
     },
     "webpage": {
       "title": "webpage",
